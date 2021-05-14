@@ -2,11 +2,15 @@
 	'users':
 		[
 		{
-			'user': 'Slava'
+			'user': 'Slava',
 			'password': 'HashedSalted'
 		},
 		{
-			'user': 'Kolya'
+			'user': 'Kolya',
 			'password': 'UnhashedUnsalted'
+		},
+		{
+			'user': 'Sasha',
+			'password': 'UnhashedSalted'
 		}
 }
