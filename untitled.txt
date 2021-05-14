@@ -1,3 +1,4 @@
 1. The first line of the project is going to be but into my git. Hello Git! -Oops the new symbols!
 2. Added a line into someone's repository <:-)
 3. Let's try this again
+4. That was definitely a luck! I forgot to push commits to the repo – that was the reason of errors
